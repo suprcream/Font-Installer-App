@@ -4,7 +4,7 @@
 The Font Installer is a simple tool that allows users to install all font files (TTF and OTF) from a selected folder and its subfolders. It provides a graphical interface for selecting the folder, viewing installation logs, and handling already installed fonts.
 
 ## Download
-Click [here](https://github.com/suprcream/Font-Installer-App/releases/tag/1.0.0.0) to download the app
+Click [here](https://github.com/suprcream/Font-Installer-App/releases/tag/1.0.0.0) or [here](https://esteriavaelis.gumroad.com/l/Esteria-Font-Installer) to download the app
 
 ## Features
 - Recursively scans subfolders for font files
